@@ -6,8 +6,6 @@ This is a Front End Web Development project.
 
 - [Overview](#overview)
   - [Description](#description)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
 
